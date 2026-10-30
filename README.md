@@ -8,7 +8,7 @@ Demo video: "Watch the 100-second demo" (https://youtu.be/QWn77yglAAU?si=RIOA0lR
 
 Repository: "View source code" (https://github.com/koolkeyzs/fake-job-posting-detector)
 
-"Screenshot of the Fake Job Posting Detector application" (fake-job-posting-dector/public/home.png)
+"Screenshot of the Fake Job Posting Detector application" (fake-job-posting-detector/public/home.png)
 
 ---
 
